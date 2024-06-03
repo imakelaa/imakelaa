@@ -1,5 +1,4 @@
 ### Hi there 🤠
-- 🔭 I’m currently working on Blender and 3D printing
-- 🌱 I’m currently learning VR Development
+- I work on anything and everything if it sounds interesting really
 - 📫 How to reach me: pasinha@ucsc.edu
 
